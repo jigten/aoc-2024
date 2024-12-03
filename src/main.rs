@@ -6,5 +6,8 @@ fn main() {
     //solutions::day1::solve_b();
 
     //solutions::day2::solve_a();
-    solutions::day2::solve_b();
+    //solutions::day2::solve_b();
+
+    solutions::day3::solve_a();
+    solutions::day3::solve_b();
 }
