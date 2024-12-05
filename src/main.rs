@@ -8,6 +8,9 @@ fn main() {
     //solutions::day2::solve_a();
     //solutions::day2::solve_b();
 
-    solutions::day3::solve_a();
-    solutions::day3::solve_b();
+    //solutions::day3::solve_a();
+    //solutions::day3::solve_b();
+
+    //solutions::day4::solve_a();
+    solutions::day4::solve_b();
 }
