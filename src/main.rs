@@ -24,5 +24,8 @@ fn main() {
     //solutions::day7::solve_b();
 
     //solutions::day8::solve_a();
-    solutions::day8::solve_b();
+    //solutions::day8::solve_b();
+
+    //solutions::day9::solve_a();
+    solutions::day9::solve_b();
 }
